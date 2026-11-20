@@ -1,0 +1,6 @@
+{
+  "name": "Closet Index",
+  "description": "An editorial digital wardrobe, interactive outfit canvas, wear calendar, lookbooks, packing lists, and cost-per-wear analytics studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
